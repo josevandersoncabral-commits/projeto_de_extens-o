@@ -82,8 +82,13 @@ main .text_inicio{
 /*Metodologia - IN*/
 .metodologia{
     text-align: justify;
-}
+    background-image: url(../img/cyrber.png);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
 
+    color: #ffffff
+}
 
 /*Metodologia - OUT*/
 
