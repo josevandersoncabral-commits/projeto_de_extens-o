@@ -86,10 +86,8 @@ main .text_inicio{
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
-
     color: #ffffff
 }
-
 
 /*Metodologia - OUT*/
 
@@ -100,5 +98,4 @@ footer{
     text-align: center;
     padding: 10px;
    
-    
 }
